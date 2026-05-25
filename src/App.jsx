@@ -299,7 +299,7 @@ export default function BossgirlSystem() {
                 price: "Gratis",
                 btnText: "Descargar Kit Gratis →",
                 btnStyle: { background: "transparent", border: "1px solid rgba(168,85,247,0.5)", color: "#d8b4fe" },
-                href: "https://www.bossgirlsystem.com/14016a5d",
+                href: "https://www.bossgirlsystem.com/3c9a30a9",
                 note: "Descarga inmediata · Sin tarjeta requerida",
               },
               {
@@ -318,7 +318,7 @@ export default function BossgirlSystem() {
                 desc: "El curso completo + todos los recursos del sistema. Todo lo que necesitas para lanzar, automatizar y escalar en un solo lugar.",
                 btnText: "Acceder al Curso Completo →",
                 btnStyle: { background: "linear-gradient(135deg, #a855f7, #ec4899)", border: "none", color: "#fff", boxShadow: "0 8px 30px rgba(168,85,247,0.5)" },
-                href: "https://www.bossgirlsystem.com/9984f524",
+                href: "https://www.bossgirlsystem.com/da160178",
                 note: "Acceso completo · El sistema entero en un solo paso",
                 featured: true,
               },
